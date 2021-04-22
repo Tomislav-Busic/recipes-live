@@ -1,0 +1,38 @@
+.recipe{
+    border-radius: 20px;
+    box-shadow: 0px 5px 20px rgb(71, 71, 71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    min-width: 40px;
+}
+
+.button{
+    border-radius: 5px;
+    background: #2CD8D5;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
+
+.yellow{
+    border-radius: 5px;
+    background: yellowgreen;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
+
+.image{
+    border-radius: 40%;
+    width: 200px;
+    height: 200px;
+    padding-bottom: 10px;
+}
+
+span{
+    font-weight: bold;
+}
